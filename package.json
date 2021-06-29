@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kokoaono/koko-CP02/issues"
   },
-  "homepage": "https://github.com/kokoaono/koko-CP02#readme"
+  "homepage": "https://github.com/kokoaono/koko-CP02#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
 }
