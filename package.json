@@ -1,0 +1,19 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Package Management: Use npm to manage library dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokoaono/koko-CP02.git"
+  },
+  "author": "kokoaono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kokoaono/koko-CP02/issues"
+  },
+  "homepage": "https://github.com/kokoaono/koko-CP02#readme"
+}
